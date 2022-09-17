@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "peakPantheR"]
-	path = peakPantheR
-	url = https://github.com/phenomecentre/peakpanther
-	shallow = true
-	registered = true
